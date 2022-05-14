@@ -4,7 +4,7 @@ This project includes a full example with SQLite storage.
 
 # Preview
 
-![https://github.com/sarasapaula/NestedNavigation/blob/main/nestedNavigation.jpg](../media/authflow.png)
+![](https://github.com/sarasapaula/NestedNavigation/blob/main/nestedNavigation.jpg)
 
 # Installation
 
